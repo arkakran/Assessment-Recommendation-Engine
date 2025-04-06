@@ -2,8 +2,8 @@ streamlit==1.25.0
 beautifulsoup4==4.12.2
 requests==2.31.0
 pandas==2.0.3
-numpy
-sentence-transformers
+numpy==1.24.3
+sentence-transformers==2.2.2
 scikit-learn==1.3.0
 nltk==3.8.1
-huggingface_hub
+huggingface_hub==0.16.4
