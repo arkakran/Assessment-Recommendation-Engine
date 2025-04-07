@@ -5,11 +5,9 @@ numpy==1.24.4
 scikit-learn==1.3.0
 nltk==3.8.1
 
-transformers==4.36.2
-
-
-
-streamlit==1.30.0
+# Fixed version combo
+transformers==4.31.0
+huggingface_hub==0.16.4
 sentence-transformers==2.2.2
-huggingface_hub==0.14.1
 torch>=1.10.0,<2.1.0
+streamlit==1.30.0
